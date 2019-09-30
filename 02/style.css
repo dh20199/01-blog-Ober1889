@@ -27,7 +27,7 @@ main>article>table {
     
     align-self: center;
     justify-self: center; 
-    // border: 1px cyan solid;
+    border: 1px cyan solid;
     padding: 40px;
     width: 100%;
     
@@ -64,6 +64,6 @@ footer {
 
 footer img {
     max-height: 150px;
-    max-width: 20% 
+    max-width: 20% ;
     flex: 1;
 }

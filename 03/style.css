@@ -1,5 +1,5 @@
 html {
-    font-family:'Roboto',sans-serif;
+    font-family:"Roboto", sans-serif;
     background-color: #ccc;
     box-sizing: border-box;
 }
@@ -23,7 +23,8 @@ header {
 
 article {
     margin-bottom: 10px;
-    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
     display: flow-root;
     justify-content: center;
 }
