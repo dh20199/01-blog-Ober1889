@@ -44,6 +44,7 @@ section.sidebar img {
     border: 1px solid black;
     border-radius: 5px;
     justify-items: space-evenly; 
+    margin-top: 25px;
 }
 
 aside {
