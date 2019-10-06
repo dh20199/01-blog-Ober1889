@@ -2,12 +2,10 @@
         font-family: "Times New Roman", Times, serif;
         box-sizing: border-box;
     }
-    
     section.main {
         max-width: 50rem;
         margin-left: 10px;
         margin-right: 10px;  
-
     }
     main>header, main>article, main>footer {
         border: 3px white solid;
@@ -46,6 +44,7 @@
     text-align: left;
     font-weight: bold;
     list-style-position: inside;
+    background-color: mediumblue;
     }
 
     article img {
