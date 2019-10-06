@@ -31,7 +31,7 @@ nav {
 
 section.sidebar {
     background-color: rgba(150, 112, 36, 0.3);
-    grid-area: section.sidebar, 120px;
+    grid-area: side;
     display: float; 
     float: 1px;
     justify-content: center;     /*these last two are optional*/
@@ -55,7 +55,7 @@ aside {
 
 article {
     background-color: whitesmoke;
-    grid-area: article, 120px;
+    grid-area: art;
     display: grid ;
     grid-template-columns: repeat (5, 1fr);
     grid-template-rows: repeat (5, 1fr);
