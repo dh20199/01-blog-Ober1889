@@ -30,10 +30,9 @@
     article {
         border: 3px white solid;
         border-radius: 5px; 
+        margin-bottom: 10px;
+        margin-bottom: 10px;
         display: flex;
-        margin-bottom: 10px;
-        margin-bottom: 10px;
-        display: flow-root;
         justify-content: left;
         background-color: maroon;
         margin-bottom: 1rem;
