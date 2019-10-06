@@ -35,8 +35,8 @@ section.sidebar {
     display: float; 
     float: 1px;
     justify-content: center;     /*these last two are optional*/
-    align-items:right;
-    
+    align-items: center;
+    flex-direction: column
 }
 
 section.sidebar img {
