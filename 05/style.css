@@ -19,8 +19,9 @@
 
     header {
         padding: 5px;
-        background-color: maroon;
+        background-color: black;
         text-align: center;
+        margin-bottom: 2rem;
     }
 
     header img {
