@@ -16,7 +16,7 @@
     header {
         grid-area: header;
         padding: 5px;
-        background-color: black;
+        background-color:grey;
         text-align: center;
         margin-bottom: 2rem;
     }
