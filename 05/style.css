@@ -5,7 +5,8 @@
     section.main {
         max-width: 50rem;
         margin-left: 10px;
-        margin-right: 10px;  
+        margin-right: 10px; 
+        display: flex; 
     }
     main>header, main>article, main>footer {
         border: 3px white solid;
