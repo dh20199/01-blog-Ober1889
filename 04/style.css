@@ -32,7 +32,7 @@ nav {
 section.sidebar {
     background-color: rgba(150, 112, 36, 0.3);
     grid-area: section.sidebar, 120px;
-    display: float ; 
+    display: float; 
     float: 1px;
     justify-content: center;     /*these last two are optional*/
     align-items:right;
@@ -44,7 +44,7 @@ section.sidebar img {
     border: 1px solid black;
     border-radius: 5px;
     justify-items: space-evenly; 
-    margin-top: 25px;
+    margin-top: 10px;
 }
 
 aside {
