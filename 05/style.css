@@ -1,6 +1,7 @@
     html {
         font-family: "Times New Roman", Times, serif;
         box-sizing: border-box;
+        display: flex
     }
     section.main {
         max-width: 50rem;
@@ -28,13 +29,12 @@
     }
 
     article {
+        display: inline-flex;
+        flex-direction: column;
         border: 3px white solid;
         border-radius: 5px; 
         margin-bottom: 10px;
         margin-bottom: 10px;
-        display: inline-flex;
-        flex-direction: column;
-        justify-content: center;
         background-color: maroon;
         margin-bottom: 1rem;
         text-align: left;

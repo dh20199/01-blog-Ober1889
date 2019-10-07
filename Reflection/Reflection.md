@@ -4,8 +4,8 @@ In this assignment you've learned very basic HTML and CSS, the content and prese
 
 ## Question 1 (150 words)
 #### In Part 2, we explored the use of semantic elements such as `<header>`, `<article>`, and `<section>`. These elements make it easier for machines and non-visual browsers to navigate web pages. Why might this be important? (You might want to Google around a bit before answering!)
-#####
+##### This is important due to the fact that the technologies employed by non-visual browsers rely on the HTML elements to provide structure and organization to a web page. As HTML is universally employed as the foundation of web content, elements such as '<header>', '<article>', and '<section>' provide structure by which a machine can process the information. Without these elements, machines and non-visual browsing software would need to sequentially process all information causing a significant disadvantage in browsing capabilities using this method; Non-visual browsers cannot see the semantic structure of a web page, they can only navigate a by means of the structure which HTML provides.
 
 ## Question 2 (150 words)
 #### In your CSS work, you learned how to change the presentation of material on the web without changing the content. Using a pen and paper, a drawing program, or (if you're feeling ambitious) real HTML and CSS, mock up 2 very different presentations of the information you displayed in your post. Put images of them on the Internet somewhere (but not in this repository) and link to them here. Write a brief paragraph discussing the effect of the presentaiton layer on the reader.
-#####
+##### 
